@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31313.79
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SeatAllocationProbabilityCalculator", "SeatAllocationProbabilityCalculator\SeatAllocationProbabilityCalculator.csproj", "{7C8BA761-CD1F-4BF4-B6C3-CCD6E5EBD777}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnitTestProbabilityCalculator", "UnitTestProbabilityCalculator\UnitTestProbabilityCalculator.csproj", "{24121A90-8C00-48D6-BA94-BB889261256D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7C8BA761-CD1F-4BF4-B6C3-CCD6E5EBD777}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7C8BA761-CD1F-4BF4-B6C3-CCD6E5EBD777}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7C8BA761-CD1F-4BF4-B6C3-CCD6E5EBD777}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7C8BA761-CD1F-4BF4-B6C3-CCD6E5EBD777}.Release|Any CPU.Build.0 = Release|Any CPU
+		{24121A90-8C00-48D6-BA94-BB889261256D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{24121A90-8C00-48D6-BA94-BB889261256D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{24121A90-8C00-48D6-BA94-BB889261256D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{24121A90-8C00-48D6-BA94-BB889261256D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0F2377AA-106E-4213-8C9C-26245C52C0A2}
+	EndGlobalSection
+EndGlobal
